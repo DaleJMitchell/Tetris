@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YVFQCWl+n6TiKFzv+c5o7Mq8iNmhQ+lVHM+LtWFANC6mhOTczKmsHjCQPpZRLFsVNVHtuq2G9OxBefIZF/bYVA==",
+  "dgSpecHash": "ozcoQsUcrnHXn8tyMh5rjDxfRgKduCfHfdVJUtPX6eb/KUXeDRkinx/JE4pRreQ9tZyBjqw6BNjp2egqBLdufQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dale\\source\\repos\\Tetris\\Tetris\\Tetris.csproj",
+  "projectFilePath": "C:\\Users\\Dale\\Documents\\CodeProjects\\Tetris\\Tetris\\Tetris.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
