@@ -104,7 +104,7 @@ namespace Tetris
 
             if (!BlockFits())
             {
-                CurrentBlock.Move(0, -1);
+                CurrentBlock.Move(0, 1);
             }
         }
 
