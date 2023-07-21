@@ -3,6 +3,10 @@
     "",
     "\\Tetris"
   ],
+<<<<<<< HEAD
+  "SelectedNode": "\\Tetris\\Block.cs",
+=======
   "SelectedNode": "\\Tetris\\Tetris.csproj",
+>>>>>>> 5454cbfec7269edec8e90b90c662248c9d898299
   "PreviewInSolutionExplorer": false
 }
